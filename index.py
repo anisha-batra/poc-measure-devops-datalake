@@ -1,2 +1,2 @@
-print ('Hello World 16')
-raise Exception('Causing CodeBuild Failure')
+print ('Hello World')
+# raise Exception('Causing CodeBuild Failure')
