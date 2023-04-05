@@ -1,2 +1,2 @@
 print ('Hello World 17')
-# raise Exception('Causing CodeBuild Failure')
+raise Exception('Causing CodeBuild Failure')
